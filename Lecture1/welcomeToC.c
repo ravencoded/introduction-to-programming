@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-
+    // learned printf /n /a /t
     printf("----------------- \n");
     printf("MERT\tURAL\n");
     printf("------------------ \n " ) ;
