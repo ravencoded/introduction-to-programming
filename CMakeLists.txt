@@ -5,4 +5,6 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(introduction_to_programming
         Lecture1/welcomeToC.c
-        Lecture2/variables.c)
+        Lecture2/variables.c
+        Lecture2/scanfPractice.c
+        Lecture2/scanfPractice2.c)
