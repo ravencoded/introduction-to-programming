@@ -1,4 +1,4 @@
-#include<stdio.h>
+/*#include<stdio.h>
 int main() {
  int x ;
  int y ;
@@ -28,3 +28,4 @@ int main() {
 
  return 0;
 }
+*/

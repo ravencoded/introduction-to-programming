@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 
 int main() {
     // learned printf /n /a /t
@@ -21,3 +21,4 @@ int main() {
 
     return 0;
 }
+*/

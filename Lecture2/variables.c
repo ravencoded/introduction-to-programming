@@ -1,6 +1,5 @@
-#include<stdio.h>
-
-int main() {
+/*#include<stdio.h>
+    int main() {
     int x ;
     x=100 ;
     int y ;
@@ -13,3 +12,4 @@ int main() {
 
     return 0;
 }
+*/
