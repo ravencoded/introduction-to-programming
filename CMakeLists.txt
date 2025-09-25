@@ -14,4 +14,5 @@ add_executable(introduction_to_programming
         Lecture2/scanfPractice4.c
         Lecture3/ifelsePractice2.c
         Lecture4/switchPractice.c
+        Lecture6/whiledoWhileFor.c
 )
