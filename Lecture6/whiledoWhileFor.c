@@ -23,6 +23,6 @@ int main() {
         toplamnot=toplamnot + not;
     }
     float ortalama = toplamnot / ogrencisayisi;
-    printf("%.2f",ortalama);
+    printf("%.2f",ortalama);or
 
 }
