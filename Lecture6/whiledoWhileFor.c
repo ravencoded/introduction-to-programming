@@ -8,21 +8,22 @@ int main() {
     }
 
 }
-*/
+
 #include <stdio.h>
 int main() {
-    int sayac;
+    int sayac = 0 ;
     int not;
-    int toplamnot;
+    int toplamnot = 0 ;
     int ogrencisayisi = 10 ;
-    while (sayac <ogrencisayisi);
-    {
-        scanf("%d",not);
-        printf("not giriniz");
-        sayac = sayac + 1 ;
-        toplamnot=toplamnot + not;
+    while (sayac <ogrencisayisi) {
+        scanf("%d",&not);
+        sayac = sayac + not;
+        toplamnot = toplamnot + not;
     }
     float ortalama = toplamnot / ogrencisayisi;
-    printf("%.2f",ortalama);or
+    printf("%.2f",ortalama);
 
+
+return 0;
 }
+*/
