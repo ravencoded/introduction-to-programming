@@ -13,7 +13,7 @@ if (i %2 != 0) {
     printf("%2Le\n",tekSayilarinCarpimi);
     printf("------------------------------------------------------------\n");
     long double çiftsayilarinCarpimi = 1.0L;
-    printf("1'den 100'e kadar olan cift sayilarin carpimi: ");
+    printf("1'den 100'e kadar olan cift sayilarin carpimii: ");
     for (int j = 1;j <= 100;++j)
     {
         if (j %2==0) {

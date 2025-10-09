@@ -1,4 +1,4 @@
-/*
+
 #include <stdio.h>
 int main() {
     int f1 =0, f2 =1, sıradakisayi = f1 ;
@@ -13,4 +13,4 @@ while (sıradakisayi < 300) {
     printf("\n");
     return 0;
 }
-*/
+
