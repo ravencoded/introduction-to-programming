@@ -14,5 +14,5 @@ int bes_ekle(int x) {
 }
 int karesini_al(int x) {
    x*=x;
-   return x ;
+   return x;
 }
