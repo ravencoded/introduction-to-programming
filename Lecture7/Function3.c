@@ -1,3 +1,4 @@
+/*
 #include<stdio.h>
 int bes_ekl(int *x) ;
 int karesini_al(int *x);
@@ -18,3 +19,4 @@ int karesini_al(int *x) {
     return *x ;
 }
 //pass by refrence
+*/

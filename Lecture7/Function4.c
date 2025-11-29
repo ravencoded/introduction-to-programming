@@ -1,4 +1,4 @@
-
+/*
 #include<stdio.h>
 int delta(int a,int b,int c) {
     return (b*b) - (4*a*c);
@@ -10,3 +10,4 @@ int main() {
     printf("%d\n",delta(a,b,c));
     return 0;
 }
+*/

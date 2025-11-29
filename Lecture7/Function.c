@@ -1,4 +1,5 @@
-#include <stdio.h>
+/*
+#include<stdio.h>
 int bes_ekle(int x);
 int karesini_al(int x);
 int main() {
@@ -16,3 +17,4 @@ int karesini_al(int x) {
    x*=x;
    return x ;
 }
+*/
