@@ -29,7 +29,7 @@ int main() {
 printf("bu bir armstrong sayidir");
     }
     else {
-        printf("bu bir armstrong sayi değildir");
+         printf("bu bir armstrong sayi değildir");
     }
     return 0;
 }
